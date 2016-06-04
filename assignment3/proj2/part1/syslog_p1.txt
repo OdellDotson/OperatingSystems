@@ -1,0 +1,244 @@
+
+Sep 17 22:12:48 virtualodell kernel: [20736.776395] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:48 virtualodell kernel: [20736.776404] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:48 virtualodell kernel: [20736.776419] User 1000 is closing file with descriptor 14
+Sep 17 22:12:49 virtualodell kernel: [20737.578695] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:49 virtualodell kernel: [20737.578705] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:49 virtualodell kernel: [20737.578721] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20738.597710] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:50 virtualodell kernel: [20738.597718] User 1000 is opening file /var/log/syslog
+Sep 17 22:12:50 virtualodell kernel: [20738.597733] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20738.833939] User 1000 is opening file /home/odell/.config/gtk-2.0/gtkfilechooser.ini
+Sep 17 22:12:50 virtualodell kernel: [20738.834009] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20738.834047] User 1000 is opening file /home/odell/.config/gtk-2.0/gtkfilechooser.ini.Q39V4X
+Sep 17 22:12:50 virtualodell kernel: [20738.838434] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20738.838867] User 1000 is opening file /home/odell/.config/gtk-2.0/gtkfilechooser.ini
+Sep 17 22:12:50 virtualodell kernel: [20738.838907] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20738.839014] User 1000 is opening file /usr/share/icons/Humanity/devices/16/drive-harddisk.svg
+Sep 17 22:12:50 virtualodell kernel: [20738.840283] User 1000 is closing file with descriptor 14
+Sep 17 22:12:50 virtualodell kernel: [20719.109601] Loaded interceptor!
+Sep 17 22:12:50 virtualodell kernel: [20738.854040] User 1000 is opening file /var/log/alternatives.log
+Sep 17 22:12:50 virtualodell kernel: [20738.866880] User 1000 is closing file with descriptor 14
+Sep 17 22:12:51 virtualodell kernel: [20738.902787] User 1000 is closing file with descriptor 30
+Sep 17 22:12:51 virtualodell kernel: [20738.903736] User 1000 is closing file with descriptor 30
+Sep 17 22:12:51 virtualodell kernel: [20739.098989] User 1000 is opening file /home/odell/.local/share/recently-used.xbel.3BA24X
+Sep 17 22:12:51 virtualodell kernel: [20739.102094] User 1000 is closing file with descriptor 14
+Sep 17 22:12:51 virtualodell kernel: [20739.863719] User 1000 is opening file /home/odell/.local/share/recently-used.xbel
+Sep 17 22:12:51 virtualodell kernel: [20739.863752] User 1000 is closing file with descriptor 14
+Sep 17 22:12:52 virtualodell kernel: [20740.372783] User 1000 is opening file /home/odell/.local/share/recently-used.xbel
+Sep 17 22:12:52 virtualodell kernel: [20740.372836] User 1000 is closing file with descriptor 11
+Sep 17 22:12:52 virtualodell kernel: [20740.374079] User 1000 is closing file with descriptor 11
+Sep 17 22:12:52 virtualodell kernel: [20740.374296] User 1000 is opening file /usr/share/applications/apturl.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374324] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374360] User 1000 is opening file /usr/share/applications/baobab.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374378] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374399] User 1000 is opening file /usr/share/applications/brasero-nautilus.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374414] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374434] User 1000 is opening file /usr/share/applications/brasero.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374448] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374469] User 1000 is opening file /usr/share/applications/checkbox-gui.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374482] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374501] User 1000 is opening file /usr/share/applications/cheese.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374516] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374535] User 1000 is opening file /usr/share/applications/credentials-preferences.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374549] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374567] User 1000 is opening file /usr/share/applications/debian-uxterm.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374581] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374603] User 1000 is opening file /usr/share/applications/debian-xterm.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374615] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374654] User 1000 is opening file /usr/share/applications/deja-dup-preferences.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374666] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374685] User 1000 is opening file /usr/share/applications/deja-dup.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374703] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374730] User 1000 is opening file /usr/share/applications/eog.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374743] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374763] User 1000 is opening file /usr/share/applications/file-roller.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374776] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374800] User 1000 is opening file /usr/share/applications/gcr-prompter.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374812] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374829] User 1000 is opening file /usr/share/applications/gcr-viewer.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374841] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374860] User 1000 is opening file /usr/share/applications/gedit.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374874] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374894] User 1000 is opening file /usr/share/applications/gkbd-keyboard-display.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374907] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374925] User 1000 is opening file /usr/share/applications/gnome-contacts.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374937] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374954] User 1000 is opening file /usr/share/applications/gnome-deja-dup-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374966] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.374985] User 1000 is opening file /usr/share/applications/gnome-disk-image-mounter.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.374997] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375014] User 1000 is opening file /usr/share/applications/gnome-disk-image-writer.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375026] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375043] User 1000 is opening file /usr/share/applications/gnome-disks.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375056] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375073] User 1000 is opening file /usr/share/applications/gnome-font-viewer.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375086] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375103] User 1000 is opening file /usr/share/applications/gnome-power-statistics.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375115] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375133] User 1000 is opening file /usr/share/applications/gnome-screenshot.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375145] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375165] User 1000 is opening file /usr/share/applications/gnome-sudoku.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375177] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375194] User 1000 is opening file /usr/share/applications/gnome-system-log.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375207] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375224] User 1000 is opening file /usr/share/applications/gnome-system-monitor-kde.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375235] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375254] User 1000 is opening file /usr/share/applications/gnome-system-monitor.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375267] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375284] User 1000 is opening file /usr/share/applications/gnome-terminal.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375296] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375313] User 1000 is opening file /usr/share/applications/gnome-user-share-properties.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375325] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375342] User 1000 is opening file /usr/share/applications/gnomine.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375354] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375372] User 1000 is opening file /usr/share/applications/gucharmap.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375383] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375401] User 1000 is opening file /usr/share/applications/hplj1020.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375413] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375430] User 1000 is opening file /usr/share/applications/ibus-setup-bopomofo.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375443] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375461] User 1000 is opening file /usr/share/applications/ibus-setup-pinyin.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375474] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375491] User 1000 is opening file /usr/share/applications/ibus-setup.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375504] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375522] User 1000 is opening file /usr/share/applications/im-config.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375534] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375552] User 1000 is opening file /usr/share/applications/mahjongg.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375565] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375582] User 1000 is opening file /usr/share/applications/onboard-settings.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375594] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375611] User 1000 is opening file /usr/share/applications/onboard.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375622] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375639] User 1000 is opening file /usr/share/applications/orca.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375650] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375668] User 1000 is opening file /usr/share/applications/remmina.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375680] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375698] User 1000 is opening file /usr/share/applications/rhythmbox-device.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375711] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375729] User 1000 is opening file /usr/share/applications/rhythmbox.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375741] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375760] User 1000 is opening file /usr/share/applications/seahorse.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375774] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375792] User 1000 is opening file /usr/share/applications/signon-ui-browser-process.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375806] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375823] User 1000 is opening file /usr/share/applications/simple-scan.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375837] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375854] User 1000 is opening file /usr/share/applications/sol.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375868] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375886] User 1000 is opening file /usr/share/applications/totem.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375901] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375931] User 1000 is opening file /usr/share/applications/transmission-gtk.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375948] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.375974] User 1000 is opening file /usr/share/applications/ubuntu-amazon-default.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.375988] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376005] User 1000 is opening file /usr/share/applications/ubuntu-software-center.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376017] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376036] User 1000 is opening file /usr/share/applications/unity-credentials-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376049] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376067] User 1000 is opening file /usr/share/applications/unity-deja-dup-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376080] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376099] User 1000 is opening file /usr/share/applications/unity-lens-photos.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376112] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376129] User 1000 is opening file /usr/share/applications/unity-scope-gdrive.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376142] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376164] User 1000 is opening file /usr/share/applications/unitywebappsqmllauncher.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376172] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376182] User 1000 is opening file /usr/share/applications/update-accounts.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376191] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376203] User 1000 is opening file /usr/share/applications/vino-preferences.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376212] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376224] User 1000 is opening file /usr/share/applications/webbrowser-app.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376233] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376244] User 1000 is opening file /usr/share/applications/xdiagnose.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376253] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376264] User 1000 is opening file /usr/share/applications/yelp.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376273] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376285] User 1000 is opening file /usr/share/applications/apport-gtk.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376296] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376307] User 1000 is opening file /usr/share/applications/language-selector.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376315] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376327] User 1000 is opening file /usr/share/applications/update-manager.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376335] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376346] User 1000 is opening file /usr/share/applications/activity-log-manager.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376354] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376366] User 1000 is opening file /usr/share/applications/unity-activity-log-manager-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376377] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376391] User 1000 is opening file /usr/share/applications/firefox.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376410] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376438] User 1000 is opening file /usr/share/applications/sublime-text-2.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376448] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376462] User 1000 is opening file /usr/share/applications/system-config-printer.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376470] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.376481] User 1000 is opening file /usr/share/applications/python2.7.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.376491] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377465] User 1000 is opening file /usr/share/applications/nautilus-classic.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377481] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377501] User 1000 is opening file /usr/share/applications/nautilus-folder-handler.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377509] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377521] User 1000 is opening file /usr/share/applications/nautilus-autorun-software.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377528] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377539] User 1000 is opening file /usr/share/applications/nautilus.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377547] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377558] User 1000 is opening file /usr/share/applications/nautilus-connect-server.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377564] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377575] User 1000 is opening file /usr/share/applications/mount-archive.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377582] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377593] User 1000 is opening file /usr/share/applications/nautilus-home.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377600] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377611] User 1000 is opening file /usr/share/applications/empathy.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377619] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377630] User 1000 is opening file /usr/share/applications/libreoffice-calc.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377645] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377676] User 1000 is opening file /usr/share/applications/libreoffice-impress.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377691] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377721] User 1000 is opening file /usr/share/applications/libreoffice-draw.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377734] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377773] User 1000 is opening file /usr/share/applications/libreoffice-startcenter.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377789] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377827] User 1000 is opening file /usr/share/applications/libreoffice-xsltfilter.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377836] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377851] User 1000 is opening file /usr/share/applications/libreoffice-math.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377864] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377889] User 1000 is opening file /usr/share/applications/libreoffice-writer.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377907] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377941] User 1000 is opening file /usr/share/applications/thunderbird.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377953] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377973] User 1000 is opening file /usr/share/applications/python3.4.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377980] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.377990] User 1000 is opening file /usr/share/applications/terminator.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.377998] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378010] User 1000 is opening file /usr/share/applications/nm-applet.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378017] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378027] User 1000 is opening file /usr/share/applications/nm-connection-editor.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378034] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378045] User 1000 is opening file /usr/share/applications/unity-bluetooth-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378052] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378062] User 1000 is opening file /usr/share/applications/unity-control-center.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378069] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378079] User 1000 is opening file /usr/share/applications/unity-color-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378086] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378097] User 1000 is opening file /usr/share/applications/unity-display-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378104] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378115] User 1000 is opening file /usr/share/applications/unity-sound-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378121] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378131] User 1000 is opening file /usr/share/applications/unity-wacom-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378138] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378148] User 1000 is opening file /usr/share/applications/unity-region-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378156] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378166] User 1000 is opening file /usr/share/applications/unity-mouse-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378173] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378183] User 1000 is opening file /usr/share/applications/unity-network-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378190] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378201] User 1000 is opening file /usr/share/applications/unity-info-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378208] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378219] User 1000 is opening file /usr/share/applications/unity-datetime-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378225] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378236] User 1000 is opening file /usr/share/applications/unity-universal-access-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378243] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378253] User 1000 is opening file /usr/share/applications/unity-appearance-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378260] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378271] User 1000 is opening file /usr/share/applications/unity-power-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378277] User 1000 is closing file with descriptor 12
+Sep 17 22:12:52 virtualodell kernel: [20740.378288] User 1000 is opening file /usr/share/applications/unity-keyboard-panel.desktop
+Sep 17 22:12:52 virtualodell kernel: [20740.378295] User 1000 is closing file with descriptor 12

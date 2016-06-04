@@ -1,0 +1,5 @@
+//Odell Dotson - CS3013 - /var/log/syslog excerpt
+
+Sep 10 14:04:09 virtualodell kernel: [   77.007726] ‘Hello, world!’ -- syscall1
+Sep 10 14:04:09 virtualodell kernel: [   77.007747] ‘Hello,world!’ -- syscall2
+Sep 10 14:04:09 virtualodell kernel: [   77.007750] ‘Hello, world!’ -- syscall3

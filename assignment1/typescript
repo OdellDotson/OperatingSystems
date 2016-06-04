@@ -1,0 +1,219 @@
+Script started on Fri 04 Sep 2015 08:45:42 AM EDT
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ ./doit ls
+dir  doit  doit.c  typescript
+
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 114
+Number of major page faults: 0
+
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ ./doit ls[K[Kps
+  PID TTY          TIME CMD
+ 2530 pts/0    00:00:00 bash
+ 2545 pts/0    00:00:00 doit
+ 2546 pts/0    00:00:00 ps
+
+
+Clock time elapsed:5
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 9
+Number of minor page faults: 105
+Number of major page faults: 0
+
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ ./doit ls -l -author
+total 40K
+drwxrwxr-x 3 odell 4.0K Sep  3 16:50 ..
+drwxrwxr-x 2 odell 4.0K Sep  3 16:50 dir
+-rw-rw-r-- 1 odell 9.2K Sep  4 08:44 doit.c
+-rw-rw-r-- 1 odell    0 Sep  4 08:45 typescript
+-rwxrwxr-x 1 odell  14K Sep  4 08:45 doit
+drwxrwxr-x 3 odell 4.0K Sep  4 08:45 .
+
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 153
+Number of major page faults: 0
+
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ ./doit
+>ls
+dir  doit  doit.c  typescript
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 6
+Number of major page faults: 0
+
+>ps
+  PID TTY          TIME CMD
+ 2530 pts/0    00:00:00 bash
+ 2549 pts/0    00:00:00 doit
+ 2550 pts/0    00:00:00 doit
+ 2552 pts/0    00:00:00 ps
+
+Clock time elapsed:6
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 3
+Number of major page faults: 0
+
+>cd dir
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 2
+Number of major page faults: 0
+
+>ls
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 3
+Number of major page faults: 0
+
+>cd ..
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 0
+Number of major page faults: 0
+
+>mkdir dir2
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 3
+Number of major page faults: 0
+
+>cd dir2
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 0
+Number of major page faults: 0
+
+>cd ..
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 0
+Number of major page faults: 0
+
+>ls
+dir  dir2  doit  doit.c  typescript
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 3
+Number of major page faults: 0
+
+>exit
+Killed
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ ./doit
+>ps
+  PID TTY          TIME CMD
+ 2530 pts/0    00:00:00 bash
+ 2560 pts/0    00:00:00 doit
+ 2561 pts/0    00:00:00 doit
+ 2562 pts/0    00:00:00 ps
+
+Clock time elapsed:6
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 7
+Number of major page faults: 0
+
+>sleep 1 &
+>
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 6
+Number of major page faults: 0
+
+>^[[A^[[B        slep ep 5 &
+>ls
+dir  dir2  doit  doit.c  typescript
+
+Clock time elapsed:0
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 0
+Involuntary context switches: 0
+Number of minor page faults: 7
+Number of major page faults: 0
+
+>ps
+  PID TTY          TIME CMD
+ 2530 pts/0    00:00:00 bash
+ 2560 pts/0    00:00:00 doit
+ 2561 pts/0    00:00:00 doit
+ 2564 pts/0    00:00:00 doit
+ 2565 pts/0    00:00:00 doit
+ 2568 pts/0    00:00:00 doit
+ 2569 pts/0    00:00:00 doit
+ 2571 pts/0    00:00:00 ps
+
+Clock time elapsed:5
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 6
+Number of major page faults: 0
+
+>exit
+
+Clock time elapsed:1
+CPU Time (User):0
+CPU Time (System):0
+Voluntary context switches: 1
+Involuntary context switches: 0
+Number of minor page faults: 3
+Number of major page faults: 0
+
+>exit
+Killed
+]0;odell@odell-VirtualBox: ~/Documents/CS/OS/a1odell@odell-VirtualBox:~/Documents/CS/OS/a1$ exit
+exit
+
+Script done on Fri 04 Sep 2015 08:47:19 AM EDT

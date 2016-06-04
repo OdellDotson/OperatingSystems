@@ -1,0 +1,52 @@
+------------------
+Sep 17 22:03:50 virtualodell kernel: [20198.844041] Current State: 0
+Sep 17 22:03:50 virtualodell kernel: [20198.844043] Current PID: 17627
+Sep 17 22:03:50 virtualodell kernel: [20198.844044] Parent PID: 8320
+Sep 17 22:03:50 virtualodell kernel: [20198.844045] Youngest child: -1
+Sep 17 22:03:50 virtualodell kernel: [20198.844046] Younger sibling: 1
+Sep 17 22:03:50 virtualodell kernel: [20198.844046] Older sibling: -1
+Sep 17 22:03:50 virtualodell kernel: [20198.844047] User ID (of process owner): 1000
+Sep 17 22:03:50 virtualodell kernel: [20198.844048] Start time (nanos) since boot: 18446742784764790616
+Sep 17 22:03:50 virtualodell kernel: [20198.844049] CPU time in user mode (micros): 4000
+Sep 17 22:03:50 virtualodell kernel: [20198.844050] CPU time in system mode (micros): 0
+Sep 17 22:03:50 virtualodell kernel: [20198.844051] User time of children (micros): 18446744073709547616
+Sep 17 22:03:50 virtualodell kernel: [20198.844052] System time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.010936] ------------------------------------
+Sep 17 22:06:51 virtualodell kernel: [20379.010940] Current State: 0
+Sep 17 22:06:51 virtualodell kernel: [20379.010941] Current PID: 17904
+Sep 17 22:06:51 virtualodell kernel: [20379.010942] Parent PID: 8320
+Sep 17 22:06:51 virtualodell kernel: [20379.010942] Youngest child: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.010943] Younger sibling: 1
+Sep 17 22:06:51 virtualodell kernel: [20379.010944] Older sibling: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.010945] User ID (of process owner): 1000
+Sep 17 22:06:51 virtualodell kernel: [20379.010946] Start time (nanos) since boot: 2784376688000
+Sep 17 22:06:51 virtualodell kernel: [20379.010946] CPU time in user mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.010947] CPU time in system mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.010948] User time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.010949] System time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.610651] ------------------------------------
+Sep 17 22:06:51 virtualodell kernel: [20379.610655] Current State: 0
+Sep 17 22:06:51 virtualodell kernel: [20379.610656] Current PID: 17905
+Sep 17 22:06:51 virtualodell kernel: [20379.610657] Parent PID: 8320
+Sep 17 22:06:51 virtualodell kernel: [20379.610658] Youngest child: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.610658] Younger sibling: 1
+Sep 17 22:06:51 virtualodell kernel: [20379.610659] Older sibling: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.610660] User ID (of process owner): 1000
+Sep 17 22:06:51 virtualodell kernel: [20379.610661] Start time (nanos) since boot: 18446743163087544616
+Sep 17 22:06:51 virtualodell kernel: [20379.610662] CPU time in user mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.610662] CPU time in system mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.610663] User time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.610664] System time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.858940] ------------------------------------
+Sep 17 22:06:51 virtualodell kernel: [20379.858943] Current State: 0
+Sep 17 22:06:51 virtualodell kernel: [20379.858944] Current PID: 17906
+Sep 17 22:06:51 virtualodell kernel: [20379.858945] Parent PID: 8320
+Sep 17 22:06:51 virtualodell kernel: [20379.858946] Youngest child: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.858947] Younger sibling: 1
+Sep 17 22:06:51 virtualodell kernel: [20379.858948] Older sibling: -1
+Sep 17 22:06:51 virtualodell kernel: [20379.858948] User ID (of process owner): 1000
+Sep 17 22:06:51 virtualodell kernel: [20379.858949] Start time (nanos) since boot: 18446743411171153616
+Sep 17 22:06:51 virtualodell kernel: [20379.858950] CPU time in user mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.858951] CPU time in system mode (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.858952] User time of children (micros): 0
+Sep 17 22:06:51 virtualodell kernel: [20379.858953] System time of children (micros): 0

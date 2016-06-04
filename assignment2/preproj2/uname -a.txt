@@ -1,0 +1,8 @@
+//Odell Dotson - CS3013
+//Generated with the script command
+
+Script started on Thu 10 Sep 2015 02:07:26 PM EDT
+]0;odell@virtualodell: ~odell@virtualodell:~$ uname -a
+Linux virtualodell 3.13.11-ckt25ocdotson #1 SMP Tue Sep 8 19:18:12 EDT 2015 i686 i686 i686 GNU/Linux
+]0;odell@virtualodell: ~odell@virtualodell:~$ exit
+Script done on Thu 10 Sep 2015 02:07:35 PM EDT
